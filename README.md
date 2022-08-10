@@ -4,7 +4,7 @@
 
 ### Easy
 
-- [1. Two Sum](leetcode/1.ipynb) - Easy
+- [1. Two Sum](leetcode/1.ipynb)
   - 배열
   - 해시 테이블
 
