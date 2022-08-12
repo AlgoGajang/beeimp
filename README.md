@@ -8,6 +8,9 @@
   - 배열
   - 해시 테이블
 
+- [70. Climbing Stairs](leetcode/70.ipynb)
+  - 다이나믹 프로그래밍
+
 ### Medium
 
 - [300. Longest Increasing Subsequence](leetcode/300.ipynb)
