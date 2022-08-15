@@ -2,7 +2,7 @@
 
 ## LeetCode
 
-![](https://leetcard.jacoblin.cool/beeimp?theme=nord&font=Inder&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/beeimp?theme=wtf&font=Merriweather&ext=activity)
 
 ### Easy
 
