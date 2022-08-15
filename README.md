@@ -2,6 +2,8 @@
 
 ## LeetCode
 
+![](https://leetcard.jacoblin.cool/beeimp?theme=nord&font=Inder&ext=activity)
+
 ### Easy
 
 - [1. Two Sum](leetcode/1.ipynb)
