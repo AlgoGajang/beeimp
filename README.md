@@ -15,6 +15,9 @@
 
 ### Medium
 
+- [57. Insert Interval](leetcode/57.ipynb)
+  - 배열
+
 - [133. Clone Graph](leetcode/113.ipynb)
 
   - Node
