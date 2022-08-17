@@ -13,6 +13,9 @@
 - [70. Climbing Stairs](leetcode/70.ipynb)
   - 다이나믹 프로그래밍
 
+- [206. Reverse Linked List](leetcode/206.ipynb)
+  - Linked List
+
 ### Medium
 
 - [57. Insert Interval](leetcode/57.ipynb)
