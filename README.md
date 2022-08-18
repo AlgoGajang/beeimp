@@ -21,6 +21,10 @@
 - [57. Insert Interval](leetcode/57.ipynb)
   - 배열
 
+- [73. Set Matrix Zeroes](leetcode/73.ipynb)
+  - Matrix
+  - 해시 테이블
+
 - [133. Clone Graph](leetcode/113.ipynb)
 
   - Node
