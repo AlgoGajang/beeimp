@@ -12,6 +12,10 @@
 
 - [70. Climbing Stairs](leetcode/70.ipynb)
   - 다이나믹 프로그래밍
+  
+- [104. Maximum Depth of Binary Tree](leetcode/104.ipynb)
+  - Binary Tree
+  - DFS(깊이 우선 탐색)
 
 - [206. Reverse Linked List](leetcode/206.ipynb)
   - Linked List
