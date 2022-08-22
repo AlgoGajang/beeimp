@@ -52,3 +52,11 @@
 - [823. Binary Trees With Factors](leetcode/823.ipynb)
   - 다이나믹 프로그래밍
   - 해시 테이블
+
+### Hard
+
+- [23. Merge k Sorted Lists](leetcode/23.ipynb)
+  - Linked List
+  - 분할 정복
+  - Heap (Priority Queue)
+  - 병합 정렬
