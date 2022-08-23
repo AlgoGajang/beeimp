@@ -17,6 +17,10 @@
   - Binary Tree
   - DFS(깊이 우선 탐색)
 
+- [121. Best Time to Buy and Sell Stock](leetcode/121.ipynb)
+  - 배열
+  - 다이나믹 프로그래밍
+
 - [206. Reverse Linked List](leetcode/206.ipynb)
   - Linked List
 
