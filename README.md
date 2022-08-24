@@ -21,6 +21,10 @@
   - 배열
   - 다이나믹 프로그래밍
 
+- [191. Number of 1 Bits](leetcode/191.ipynb)
+  - Divide and Conquer
+  - Bit Manipulation
+
 - [206. Reverse Linked List](leetcode/206.ipynb)
   - Linked List
 
