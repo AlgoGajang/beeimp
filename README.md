@@ -49,6 +49,10 @@
   - Queue
   - BFS(너비 우선 탐색)
 
+- [207. Course Schedule](leetcode/207.ipynb)
+  - Graph
+  - Depth-First Search
+
 - [300. Longest Increasing Subsequence](leetcode/300.ipynb)
   - 다이나믹 프로그래밍
   - 이분 탐색
