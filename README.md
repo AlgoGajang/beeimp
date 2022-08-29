@@ -35,6 +35,10 @@
   - 해시 테이블
   - Sliding Window
 
+- [56. Merge Intervals](leetcode/56.ipynb)
+  - 배열
+  - 정렬
+
 - [57. Insert Interval](leetcode/57.ipynb)
   - 배열
 
