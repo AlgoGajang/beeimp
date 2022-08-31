@@ -40,6 +40,11 @@
   - 해시 테이블
   - Sliding Window
 
+- [54. Spiral Matrix](leetcode/54.ipynb)
+  - 배열
+  - Matrix
+  - 시뮬레이션
+
 - [56. Merge Intervals](leetcode/56.ipynb)
   - 배열
   - 정렬
