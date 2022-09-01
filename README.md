@@ -80,6 +80,12 @@
   - 배열
   - 비트 연산
 
+- [424. Longest Repeating Character Replacement](leetcode/424.ipynb)
+  - 문자열
+  - 해시 테이블
+  - Sliding Window
+
+
 - [823. Binary Trees With Factors](leetcode/823.ipynb)
   - 다이나믹 프로그래밍
   - 해시 테이블
