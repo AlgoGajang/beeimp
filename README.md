@@ -13,6 +13,13 @@
 - [70. Climbing Stairs](leetcode/70.ipynb)
   - 다이나믹 프로그래밍
   
+- [100. Same Tree](leetcode/100.ipynb)
+  - Tree
+  - Binary Tree
+  - DFS(깊이 우선 탐색)
+  - BFS(너비 우선 탐색)
+  - 해시 함수
+
 - [104. Maximum Depth of Binary Tree](leetcode/104.ipynb)
   - Binary Tree
   - DFS(깊이 우선 탐색)
