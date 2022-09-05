@@ -83,6 +83,12 @@
   - 다이나믹 프로그래밍
   - BFS(너비 우선 탐색)
 
+- [347. Top K Frequent Elements](leetcode/347.ipynb)
+  - 배열
+  - 해시 테이블
+  - 정렬
+  - 힙(우선순위 큐)
+
 - [371. Sum of Two Integers](leetcode/371.ipynb)
   - 배열
   - 비트 연산
