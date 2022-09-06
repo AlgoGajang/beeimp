@@ -40,6 +40,10 @@
 - [206. Reverse Linked List](leetcode/206.ipynb)
   - Linked List
 
+- [217. Contains Duplicate](leetcode/217.ipynb)
+  - 배열
+  - 해시 테이블
+
 ### Medium
 
 - [3. Longest Substring Without Repeating Characters](leetcode/3.ipynb)
