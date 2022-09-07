@@ -44,6 +44,10 @@
   - 배열
   - 해시 테이블
 
+- [338. Counting Bits](leetcode/338.ipynb)
+  - 다이나믹 프로그래밍
+  - 비트 연산
+
 ### Medium
 
 - [3. Longest Substring Without Repeating Characters](leetcode/3.ipynb)
