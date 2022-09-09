@@ -119,6 +119,12 @@
   - 다이나믹 프로그래밍
   - 해시 테이블
 
+- [1996. The Number of Weak Characters in the Game](leetcode/1996.ipynb)
+  - 배열
+  - 스택
+  - 그리디
+  - 정렬
+
 ### Hard
 
 - [23. Merge k Sorted Lists](leetcode/23.ipynb)
