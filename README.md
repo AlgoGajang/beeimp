@@ -10,6 +10,10 @@
   - 배열
   - 해시 테이블
 
+- [21. Merge Two Sorted Lists](leetcode/21.ipynb)
+  - 연결 리스트
+  - 재귀
+
 - [70. Climbing Stairs](leetcode/70.ipynb)
   - 다이나믹 프로그래밍
   
