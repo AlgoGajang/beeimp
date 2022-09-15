@@ -67,6 +67,10 @@
   - 해시 테이블
   - Sliding Window
 
+- [48. Rotate Image](leetcode/48.ipynb)
+  - 배열
+  - 행렬
+
 - [54. Spiral Matrix](leetcode/54.ipynb)
   - 배열
   - Matrix
