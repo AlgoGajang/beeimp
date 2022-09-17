@@ -10,6 +10,10 @@
   - 배열
   - 해시 테이블
 
+- [9. Palindrome Number](leetcode/9.ipynb)
+  - 수학
+  - 문자열
+
 - [21. Merge Two Sorted Lists](leetcode/21.ipynb)
   - 연결 리스트
   - 재귀
@@ -31,14 +35,15 @@
 - [121. Best Time to Buy and Sell Stock](leetcode/121.ipynb)
   - 배열
   - 다이나믹 프로그래밍
-  - 
+
 [139. Word Break](leetcode/139.ipynb)
-  - 문자열
-  - 해시 테이블
-  - 다이나믹 프로그래밍
-  - 트라이(Trie)
-  - 메모이제이션
-  - 너비 우선 탐색(BFS)
+
+- 문자열
+- 해시 테이블
+- 다이나믹 프로그래밍
+- 트라이(Trie)
+- 메모이제이션
+- 너비 우선 탐색(BFS)
 
 - [141. Linked List Cycle](leetcode/141.ipynb)
   - Linked List
@@ -123,7 +128,6 @@
   - 너비 우선 탐색
   - 행렬
 
-
 - [424. Longest Repeating Character Replacement](leetcode/424.ipynb)
   - 문자열
   - 해시 테이블
@@ -133,7 +137,6 @@
   - 배열
   - 다이나믹 프로그래밍
   - 그리디
-
 
 - [823. Binary Trees With Factors](leetcode/823.ipynb)
   - 다이나믹 프로그래밍
