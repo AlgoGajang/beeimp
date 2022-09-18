@@ -22,14 +22,14 @@
   - 다이나믹 프로그래밍
   
 - [100. Same Tree](leetcode/100.ipynb)
-  - Tree
-  - Binary Tree
+  - 트리
+  - 이진 트리
   - DFS(깊이 우선 탐색)
   - BFS(너비 우선 탐색)
   - 해시 함수
 
 - [104. Maximum Depth of Binary Tree](leetcode/104.ipynb)
-  - Binary Tree
+  - 이진 트리
   - DFS(깊이 우선 탐색)
 
 - [121. Best Time to Buy and Sell Stock](leetcode/121.ipynb)
@@ -46,16 +46,16 @@
 - 너비 우선 탐색(BFS)
 
 - [141. Linked List Cycle](leetcode/141.ipynb)
-  - Linked List
-  - Hash Table
-  - Two Pointers
+  - 연결 리스트
+  - 해시 테이블
+  - 투 포인터
 
 - [191. Number of 1 Bits](leetcode/191.ipynb)
-  - Divide and Conquer
-  - Bit Manipulation
+  - 분할 정복
+  - 비트 연산
 
 - [206. Reverse Linked List](leetcode/206.ipynb)
-  - Linked List
+  - 연결 리스트
 
 - [217. Contains Duplicate](leetcode/217.ipynb)
   - 배열
@@ -78,7 +78,7 @@
 
 - [54. Spiral Matrix](leetcode/54.ipynb)
   - 배열
-  - Matrix
+  - 행렬
   - 시뮬레이션
 
 - [56. Merge Intervals](leetcode/56.ipynb)
@@ -89,19 +89,19 @@
   - 배열
 
 - [73. Set Matrix Zeroes](leetcode/73.ipynb)
-  - Matrix
+  - 행렬
   - 해시 테이블
 
 - [133. Clone Graph](leetcode/113.ipynb)
 
-  - Node
+  - 노드
   - 해시 테이블
   - Queue
   - BFS(너비 우선 탐색)
 
 - [207. Course Schedule](leetcode/207.ipynb)
-  - Graph
-  - Depth-First Search
+  - 그래프
+  - DFS(깊이 우선 탐색)
 
 - [300. Longest Increasing Subsequence](leetcode/300.ipynb)
   - 다이나믹 프로그래밍
@@ -124,8 +124,8 @@
 
 - [417. Pacific Atlantic Water Flow](leetcode/417.ipynb)
   - 배열
-  - 깊이 우선 탐색
-  - 너비 우선 탐색
+  - DFS(깊이 우선 탐색)
+  - BFS(너비 우선 탐색)
   - 행렬
 
 - [424. Longest Repeating Character Replacement](leetcode/424.ipynb)
@@ -151,9 +151,9 @@
 ### Hard
 
 - [23. Merge k Sorted Lists](leetcode/23.ipynb)
-  - Linked List
+  - 연결 리스트
   - 분할 정복
-  - Heap (Priority Queue)
+  - 힙 (우선순위 Queue)
   - 병합 정렬
 
 - [76. Minimum Window Substring](leetcode/76.ipynb)
