@@ -85,6 +85,8 @@
   - 다이나믹 프로그래밍
   - 비트 연산
 
+<hr/>
+
 ### Medium
 
 - [3. Longest Substring Without Repeating Characters](leetcode/3.ipynb)
@@ -166,6 +168,8 @@
   - 스택
   - 그리디
   - 정렬
+
+<hr/>
 
 ### Hard
 
