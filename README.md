@@ -12,6 +12,8 @@
 
 - [Progremmers](#programmers)
 
+<hr/>
+
 ## LeetCode
 
 <center>
@@ -22,166 +24,200 @@
 
 ### Easy
 
-- [1. Two Sum](leetcode/1.ipynb)
-  - 배열
-  - 해시 테이블
+[1. Two Sum](leetcode/1.ipynb)
 
-- [9. Palindrome Number](leetcode/9.ipynb)
-  - 수학
-  - 문자열
+- 배열
+- 해시 테이블
 
-- [21. Merge Two Sorted Lists](leetcode/21.ipynb)
-  - 연결 리스트
-  - 재귀
+[9. Palindrome Number](leetcode/9.ipynb)
 
-- [70. Climbing Stairs](leetcode/70.ipynb)
-  - 다이나믹 프로그래밍
+- 수학
+- 문자열
+
+[21. Merge Two Sorted Lists](leetcode/21.ipynb)
+
+- 연결 리스트
+- 재귀
+
+[70. Climbing Stairs](leetcode/70.ipynb)
+
+- 다이나믹 프로그래밍
   
-- [100. Same Tree](leetcode/100.ipynb)
-  - 트리
-  - 이진 트리
-  - DFS(깊이 우선 탐색)
-  - BFS(너비 우선 탐색)
-  - 해시 함수
+[100. Same Tree](leetcode/100.ipynb)
 
-- [104. Maximum Depth of Binary Tree](leetcode/104.ipynb)
-  - 이진 트리
-  - DFS(깊이 우선 탐색)
+- 트리
+- 이진 트리
+- DFS(깊이 우선 탐색)
+- BFS(너비 우선 탐색)
+- 해시 함수
 
-- [121. Best Time to Buy and Sell Stock](leetcode/121.ipynb)
-  - 배열
-  - 다이나믹 프로그래밍
+[104. Maximum Depth of Binary Tree](leetcode/104.ipynb)
 
-- [139. Word Break](leetcode/139.ipynb)
+- 이진 트리
+- DFS(깊이 우선 탐색)
 
-  - 문자열
-  - 해시 테이블
-  - 다이나믹 프로그래밍
-  - 트라이(Trie)
-  - 메모이제이션
-  - 너비 우선 탐색(BFS)
+[121. Best Time to Buy and Sell Stock](leetcode/121.ipynb)
 
-- [141. Linked List Cycle](leetcode/141.ipynb)
-  - 연결 리스트
-  - 해시 테이블
-  - 투 포인터
+- 배열
+- 다이나믹 프로그래밍
 
-- [191. Number of 1 Bits](leetcode/191.ipynb)
-  - 분할 정복
-  - 비트 연산
+[139. Word Break](leetcode/139.ipynb)
 
-- [206. Reverse Linked List](leetcode/206.ipynb)
-  - 연결 리스트
+- 문자열
+- 해시 테이블
+- 다이나믹 프로그래밍
+- 트라이(Trie)
+- 메모이제이션
+- 너비 우선 탐색(BFS)
 
-- [217. Contains Duplicate](leetcode/217.ipynb)
-  - 배열
-  - 해시 테이블
+[141. Linked List Cycle](leetcode/141.ipynb)
 
-- [226. Invert Binary Tree](leetcode/226.ipynb)
-  - 트리
-  - 이진 트리
+- 연결 리스트
+- 해시 테이블
+- 투 포인터
 
-- [338. Counting Bits](leetcode/338.ipynb)
-  - 다이나믹 프로그래밍
-  - 비트 연산
+[191. Number of 1 Bits](leetcode/191.ipynb)
+
+- 분할 정복
+- 비트 연산
+
+[206. Reverse Linked List](leetcode/206.ipynb)
+
+- 연결 리스트
+
+[217. Contains Duplicate](leetcode/217.ipynb)
+
+- 배열
+- 해시 테이블
+
+[226. Invert Binary Tree](leetcode/226.ipynb)
+
+- 트리
+- 이진 트리
+
+[338. Counting Bits](leetcode/338.ipynb)
+
+- 다이나믹 프로그래밍
+- 비트 연산
 
 <hr/>
 
 ### Medium
 
-- [3. Longest Substring Without Repeating Characters](leetcode/3.ipynb)
-  - 문자열
-  - 해시 테이블
-  - Sliding Window
+[3. Longest Substring Without Repeating Characters](leetcode/3.ipynb)
 
-- [48. Rotate Image](leetcode/48.ipynb)
-  - 배열
-  - 행렬
+- 문자열
+- 해시 테이블
+- Sliding Window
 
-- [54. Spiral Matrix](leetcode/54.ipynb)
-  - 배열
-  - 행렬
-  - 시뮬레이션
+[48. Rotate Image](leetcode/48.ipynb)
 
-- [56. Merge Intervals](leetcode/56.ipynb)
-  - 배열
-  - 정렬
+- 배열
+- 행렬
 
-- [57. Insert Interval](leetcode/57.ipynb)
-  - 배열
+[54. Spiral Matrix](leetcode/54.ipynb)
 
-- [73. Set Matrix Zeroes](leetcode/73.ipynb)
-  - 행렬
-  - 해시 테이블
+- 배열
+- 행렬
+- 시뮬레이션
 
-- [133. Clone Graph](leetcode/113.ipynb)
-  - 노드
-  - 해시 테이블
-  - Queue
-  - BFS(너비 우선 탐색)
+[56. Merge Intervals](leetcode/56.ipynb)
 
-- [207. Course Schedule](leetcode/207.ipynb)
-  - 그래프
-  - DFS(깊이 우선 탐색)
+- 배열
+- 정렬
 
-- [300. Longest Increasing Subsequence](leetcode/300.ipynb)
-  - 다이나믹 프로그래밍
-  - 이분 탐색
+[57. Insert Interval](leetcode/57.ipynb)
 
-- [322. Coin Change](leetcode/322.ipynb)
-  - 배열
-  - 다이나믹 프로그래밍
-  - BFS(너비 우선 탐색)
+- 배열
 
-- [347. Top K Frequent Elements](leetcode/347.ipynb)
-  - 배열
-  - 해시 테이블
-  - 정렬
-  - 힙(우선순위 큐)
+[73. Set Matrix Zeroes](leetcode/73.ipynb)
 
-- [371. Sum of Two Integers](leetcode/371.ipynb)
-  - 배열
-  - 비트 연산
+- 행렬
+- 해시 테이블
 
-- [417. Pacific Atlantic Water Flow](leetcode/417.ipynb)
-  - 배열
-  - DFS(깊이 우선 탐색)
-  - BFS(너비 우선 탐색)
-  - 행렬
+[133. Clone Graph](leetcode/113.ipynb)
 
-- [424. Longest Repeating Character Replacement](leetcode/424.ipynb)
-  - 문자열
-  - 해시 테이블
-  - Sliding Window
+- 노드
+- 해시 테이블
+- Queue
+- BFS(너비 우선 탐색)
 
-- [435. Non-overlapping Intervals](leetcode/435.ipynb)
-  - 배열
-  - 다이나믹 프로그래밍
-  - 그리디
+[207. Course Schedule](leetcode/207.ipynb)
 
-- [823. Binary Trees With Factors](leetcode/823.ipynb)
-  - 다이나믹 프로그래밍
-  - 해시 테이블
+- 그래프
+- DFS(깊이 우선 탐색)
 
-- [1996. The Number of Weak Characters in the Game](leetcode/1996.ipynb)
-  - 배열
-  - 스택
-  - 그리디
-  - 정렬
+[300. Longest Increasing Subsequence](leetcode/300.ipynb)
+
+- 다이나믹 프로그래밍
+- 이분 탐색
+
+[322. Coin Change](leetcode/322.ipynb)
+
+- 배열
+- 다이나믹 프로그래밍
+- BFS(너비 우선 탐색)
+
+[347. Top K Frequent Elements](leetcode/347.ipynb)
+
+- 배열
+- 해시 테이블
+- 정렬
+- 힙(우선순위 큐)
+
+[371. Sum of Two Integers](leetcode/371.ipynb)
+
+- 배열
+- 비트 연산
+
+[417. Pacific Atlantic Water Flow](leetcode/417.ipynb)
+
+- 배열
+- DFS(깊이 우선 탐색)
+- BFS(너비 우선 탐색)
+- 행렬
+
+[424. Longest Repeating Character Replacement](leetcode/424.ipynb)
+
+- 문자열
+- 해시 테이블
+- Sliding Window
+
+[435. Non-overlapping Intervals](leetcode/435.ipynb)
+
+- 배열
+- 다이나믹 프로그래밍
+- 그리디
+
+[823. Binary Trees With Factors](leetcode/823.ipynb)
+
+- 다이나믹 프로그래밍
+- 해시 테이블
+
+[1996. The Number of Weak Characters in the Game](leetcode/1996.ipynb)
+
+- 배열
+- 스택
+- 그리디
+- 정렬
 
 <hr/>
 
 ### Hard
 
-- [23. Merge k Sorted Lists](leetcode/23.ipynb)
-  - 연결 리스트
-  - 분할 정복
-  - 힙 (우선순위 Queue)
-  - 병합 정렬
+[23. Merge k Sorted Lists](leetcode/23.ipynb)
 
-- [76. Minimum Window Substring](leetcode/76.ipynb)
-  - 문자열
-  - 해시 테이블
-  - 슬라이딩 윈도우
+- 연결 리스트
+- 분할 정복
+- 힙 (우선순위 Queue)
+- 병합 정렬
+
+[76. Minimum Window Substring](leetcode/76.ipynb)
+
+- 문자열
+- 해시 테이블
+- 슬라이딩 윈도우
+
+<hr/>
 
 ## Programmers
