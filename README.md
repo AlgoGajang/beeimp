@@ -36,14 +36,14 @@
   - 배열
   - 다이나믹 프로그래밍
 
-[139. Word Break](leetcode/139.ipynb)
+- [139. Word Break](leetcode/139.ipynb)
 
-- 문자열
-- 해시 테이블
-- 다이나믹 프로그래밍
-- 트라이(Trie)
-- 메모이제이션
-- 너비 우선 탐색(BFS)
+  - 문자열
+  - 해시 테이블
+  - 다이나믹 프로그래밍
+  - 트라이(Trie)
+  - 메모이제이션
+  - 너비 우선 탐색(BFS)
 
 - [141. Linked List Cycle](leetcode/141.ipynb)
   - 연결 리스트
@@ -60,6 +60,10 @@
 - [217. Contains Duplicate](leetcode/217.ipynb)
   - 배열
   - 해시 테이블
+
+- [226. Invert Binary Tree](leetcode/226.ipynb)
+  - 트리
+  - 이진 트리
 
 - [338. Counting Bits](leetcode/338.ipynb)
   - 다이나믹 프로그래밍
