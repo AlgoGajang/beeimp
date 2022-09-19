@@ -14,7 +14,11 @@
 
 ## LeetCode
 
+<center>
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/beeimp?theme=wtf&font=Merriweather&ext=activity)
+
+</center>
 
 ### Easy
 
