@@ -221,3 +221,19 @@
 <hr/>
 
 ## Programmers
+
+### Level 1
+
+[2022 KAKAO BLIND RECRUITMENT - 신고 결과 받기](programmers/신고_결과_받기.ipynb)
+
+- 문자열
+- 해시 테이블
+- Set
+
+### Level 2
+
+### Level 3
+
+### Level 4
+
+### Level 5
