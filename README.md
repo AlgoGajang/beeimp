@@ -232,6 +232,10 @@
 
 ### Level 2
 
+[2022 KAKAO BLIND RECRUITMENT - 양궁 대회](programmers/양궁_대회.ipynb)
+
+- BFS(깊이 우선 탐색)
+
 ### Level 3
 
 ### Level 4
