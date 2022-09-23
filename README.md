@@ -242,6 +242,8 @@
 
 ### Level 3
 
+[2022 KAKAO TECH INTERNSHIP - 등산코스 정하기](programmers/등산_코스_정하기.ipynb)
+
 ### Level 4
 
 ### Level 5
