@@ -194,6 +194,12 @@
 - 다이나믹 프로그래밍
 - 그리디
 
+[622. Design Circular Queue](leetcode/622_Design_Circular_Queue.ipynb)
+
+- 큐
+- 디자인
+- 구현
+
 [823. Binary Trees With Factors](leetcode/823.ipynb)
 
 - 다이나믹 프로그래밍
