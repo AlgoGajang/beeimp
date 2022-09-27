@@ -152,6 +152,11 @@
 - 그래프
 - DFS(깊이 우선 탐색)
 
+[238. Product of Array Except Self](leetcode/238_Product_of_Array_Except_Self.ipynb)
+
+- 배열
+- 프리픽스 합
+
 [300. Longest Increasing Subsequence](leetcode/300.ipynb)
 
 - 다이나믹 프로그래밍
