@@ -95,6 +95,12 @@
 - 트리
 - 이진 트리
 
+[268. Missing Number](leetcode/268_Missing_Number.ipynb)
+
+- 배열
+- 수학
+
+
 [338. Counting Bits](leetcode/338.ipynb)
 
 - 다이나믹 프로그래밍
