@@ -153,6 +153,11 @@
 - 트리
 - BFS(너비 우선 탐색)
 
+[200. Number of Islands](leetcode/200_Number_of_Islands.ipynb)
+
+- 행렬
+- BFS(너비 우선 탐색)
+
 [207. Course Schedule](leetcode/207.ipynb)
 
 - 그래프
