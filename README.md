@@ -100,7 +100,6 @@
 - 배열
 - 수학
 
-
 [338. Counting Bits](leetcode/338.ipynb)
 
 - 다이나믹 프로그래밍
@@ -268,6 +267,10 @@
 - Set
 
 ### Level 2
+
+[최댓값과 최솟값](programmers/최댓값과_최솟값.ipynb)
+
+- 문자열
 
 [2022 KAKAO BLIND RECRUITMENT - 양궁 대회](programmers/양궁_대회.ipynb)
 
