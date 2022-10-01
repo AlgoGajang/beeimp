@@ -276,6 +276,11 @@
 
 - BFS(깊이 우선 탐색)
 
+[2022 KAKAO BLIND RECRUITMENT - k진수에서 소수 개수 구하기](programmers/k진수에서_소수_개수_구하기.ipynb)
+
+- k 진수
+- 소수
+
 [2022 KAKAO TECH INTERNSHIP - 두 큐 합 같게 만들기](programmers/두_수_합_같게_만들기.ipynb)
 
 - 큐(Queue)
