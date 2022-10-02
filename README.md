@@ -289,6 +289,10 @@
 
 [2022 KAKAO TECH INTERNSHIP - 등산코스 정하기](programmers/등산_코스_정하기.ipynb)
 
+[정수 삼각형](programmers/정수_삼각형.ipynb)
+
+- DP(동적 계획법)
+
 ### Level 4
 
 ### Level 5
