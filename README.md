@@ -41,7 +41,7 @@
 
 [70. Climbing Stairs](leetcode/70.ipynb)
 
-- 다이나믹 프로그래밍
+- DP(동적 계획법)
   
 [100. Same Tree](leetcode/100.ipynb)
 
@@ -59,13 +59,13 @@
 [121. Best Time to Buy and Sell Stock](leetcode/121.ipynb)
 
 - 배열
-- 다이나믹 프로그래밍
+- DP(동적 계획법)
 
 [139. Word Break](leetcode/139.ipynb)
 
 - 문자열
 - 해시 테이블
-- 다이나믹 프로그래밍
+- DP(동적 계획법)
 - 트라이(Trie)
 - 메모이제이션
 - 너비 우선 탐색(BFS)
@@ -102,7 +102,7 @@
 
 [338. Counting Bits](leetcode/338.ipynb)
 
-- 다이나믹 프로그래밍
+- DP(동적 계획법)
 - 비트 연산
 
 <hr/>
@@ -169,13 +169,13 @@
 
 [300. Longest Increasing Subsequence](leetcode/300.ipynb)
 
-- 다이나믹 프로그래밍
+- DP(동적 계획법)
 - 이분 탐색
 
 [322. Coin Change](leetcode/322.ipynb)
 
 - 배열
-- 다이나믹 프로그래밍
+- DP(동적 계획법)
 - BFS(너비 우선 탐색)
 
 [347. Top K Frequent Elements](leetcode/347.ipynb)
@@ -193,7 +193,7 @@
 [377. Combination Sum IV](leetcode/377_Combination_Sum_IV.ipynb)
 
 - 배열
-- 다이나믹 프로그래밍
+- DP(동적 계획법)
 
 [417. Pacific Atlantic Water Flow](leetcode/417.ipynb)
 
@@ -211,7 +211,7 @@
 [435. Non-overlapping Intervals](leetcode/435.ipynb)
 
 - 배열
-- 다이나믹 프로그래밍
+- DP(동적 계획법)
 - 그리디
 
 [622. Design Circular Queue](leetcode/622_Design_Circular_Queue.ipynb)
@@ -222,7 +222,7 @@
 
 [823. Binary Trees With Factors](leetcode/823.ipynb)
 
-- 다이나믹 프로그래밍
+- DP(동적 계획법)
 - 해시 테이블
 
 [1996. The Number of Weak Characters in the Game](leetcode/1996.ipynb)
@@ -310,6 +310,10 @@
 [야근 지수](programmers/야근_지수.ipynb)
 
 - 힙(우선순위 큐)
+
+[등굣길](programmers/등굣길.ipynb)
+
+- DP(동적 계획법)
 
 ### Level 4
 
