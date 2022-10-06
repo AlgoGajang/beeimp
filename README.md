@@ -12,6 +12,16 @@
 
 - [Progremmers](#programmers)
 
+  - [Level 1](#level-1)
+
+  - [Level 2](#level-2)
+
+  - [Level 3](#level-3)
+
+  - [Level 4](#level-4)
+
+  - [Level 5](#level-5)
+
 <hr/>
 
 ## LeetCode
@@ -323,6 +333,11 @@
 [베스트앨벌](programmers/베스트앨범.ipynb)
 
 - 해시 테이블
+- 정렬
+
+[숫자 게임](programmers/숫자_게임.ipynb)
+
+- Two Pointers
 - 정렬
 
 ### Level 4
