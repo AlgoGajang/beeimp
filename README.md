@@ -349,6 +349,12 @@
 - 순열
 - Set
 
+[2020 카카오 인턴쉽 - 보석 쇼핑](programmers/보석_쇼핑.ipynb)
+
+- 해시 테이블
+- Slice Winodw
+- Set
+
 ### Level 4
 
 ### Level 5
