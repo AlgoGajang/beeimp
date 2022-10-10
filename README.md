@@ -355,6 +355,10 @@
 - Slice Winodw
 - Set
 
+[2019 카카오 개발자 겨울 인턴십 - 징검다리 건너기](programmers/징검다리_건너기.ipynb)
+
+- 이진 탐색
+
 ### Level 4
 
 ### Level 5
@@ -365,3 +369,4 @@
 - 2023 KAKAO BLIND RECRUITMENT
 - 2022 Dev-Matching: 웹 백엔드 개발자(하반기)-1
 - MIDIUM
+- SKT
