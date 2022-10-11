@@ -364,6 +364,11 @@
 - 그래프
 - BFS(너비 우선 탐색)
 
+[섬 연결하기](programmers/섬_연결하기.ipynb)
+
+- 탐욕법
+- Kruskal
+
 ### Level 4
 
 ### Level 5
