@@ -369,6 +369,10 @@
 - 탐욕법
 - Kruskal
 
+[스티커_모으기(2)](programmers/스티커_모으기(2).ipynb)
+
+- DP(동적 계획법)
+
 ### Level 4
 
 ### Level 5
