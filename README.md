@@ -352,7 +352,7 @@
 [2020 카카오 인턴쉽 - 보석 쇼핑](programmers/보석_쇼핑.ipynb)
 
 - 해시 테이블
-- Slice Winodw
+- Sliding Window
 - Set
 
 [2019 카카오 개발자 겨울 인턴십 - 징검다리 건너기](programmers/징검다리_건너기.ipynb)
