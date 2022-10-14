@@ -150,6 +150,13 @@
 - 행렬
 - 해시 테이블
 
+[79. Word Search](leetcode/79_Word_Search.ipynb)
+
+- 배열
+- 행렬
+- 백트래킹
+- DFS(깊이 우선 탐색)
+
 [133. Clone Graph](leetcode/113.ipynb)
 
 - 노드
