@@ -105,6 +105,11 @@
 - 트리
 - 이진 트리
 
+[242. Valid Anagram](leetcode/242_Valid_Anagram.ipynb)
+
+- 정렬
+- 해시 테이블
+
 [268. Missing Number](leetcode/268_Missing_Number.ipynb)
 
 - 배열
