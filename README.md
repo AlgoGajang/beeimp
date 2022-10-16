@@ -410,3 +410,5 @@
 - 2022 Dev-Matching: 웹 백엔드 개발자(하반기)-1
 - MIDIUM
 - SKT
+- SK C&C
+- LG CNS
