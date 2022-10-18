@@ -86,6 +86,11 @@
 - 해시 테이블
 - 투 포인터
 
+[190. Reverse Bits](leetcode/190_Reverse_Bits.ipynb)
+
+- 분할 정복
+- 비트 연산
+
 [191. Number of 1 Bits](leetcode/191.ipynb)
 
 - 분할 정복
