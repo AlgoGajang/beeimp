@@ -324,6 +324,12 @@
 
 - 큐(Queue)
 
+[피로도](programmers/피로도.ipynb)
+
+- 완전탐색
+- DFS(깊이 우선 탐색)
+- 순열
+
 ### Level 3
 
 [2022 KAKAO TECH INTERNSHIP - 등산코스 정하기](programmers/등산_코스_정하기.ipynb)
