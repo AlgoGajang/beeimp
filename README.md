@@ -191,6 +191,11 @@
 - 트리
 - BFS(너비 우선 탐색)
 
+[198. House Robber](leetcode/198_House_Robber.ipynb)
+
+- 배열
+- DP(동적 계획법)
+
 [200. Number of Islands](leetcode/200_Number_of_Islands.ipynb)
 
 - 행렬
