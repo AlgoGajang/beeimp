@@ -335,6 +335,12 @@
 - DFS(깊이 우선 탐색)
 - 순열
 
+[전력망 둘로 나누기](programmers/전력망을_둘로_나누기.ipynb)
+
+- 완전탐색
+- BFS(너비 우선 탐색)
+- SET
+
 ### Level 3
 
 [2022 KAKAO TECH INTERNSHIP - 등산코스 정하기](programmers/등산_코스_정하기.ipynb)
