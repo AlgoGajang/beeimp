@@ -179,6 +179,11 @@
 - 이진 트리
 - BFS(너비 우선 탐색)
 
+[128. Longest Consecutive Sequence](leetcode/128_Longest_Consecutive_Sequence.ipynb)
+
+- 배열
+- 정렬
+
 [133. Clone Graph](leetcode/113.ipynb)
 
 - 노드
