@@ -346,6 +346,12 @@
 - BFS(너비 우선 탐색)
 - SET
 
+[모음 사전](programmers/모음_사전.ipynb)
+
+- 완전탐색
+- 조합
+- 등비수열의 합
+
 ### Level 3
 
 [2022 KAKAO TECH INTERNSHIP - 등산코스 정하기](programmers/등산_코스_정하기.ipynb)
