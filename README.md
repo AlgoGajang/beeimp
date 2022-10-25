@@ -185,6 +185,11 @@
 - 이진 트리
 - BFS(너비 우선 탐색)
 
+[113. Path Sum II](leetcode/113_2.ipynb)
+
+- 트리
+- BFS(너비 우선 탐색)
+
 [128. Longest Consecutive Sequence](leetcode/128_Longest_Consecutive_Sequence.ipynb)
 
 - 배열
@@ -197,10 +202,10 @@
 - Queue
 - BFS(너비 우선 탐색)
 
-[113. Path Sum II](leetcode/113_2.ipynb)
+[153. Find Minimum in Rotated Sorted Array](leetcode/153_Find_Minimum_in_Roated_Sorted_Array.ipynb)
 
-- 트리
-- BFS(너비 우선 탐색)
+- 배열
+- 이분 탐색
 
 [198. House Robber](leetcode/198_House_Robber.ipynb)
 
