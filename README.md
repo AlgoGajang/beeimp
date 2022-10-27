@@ -76,6 +76,11 @@
 - 배열
 - DP(동적 계획법)
 
+[125. Valid Palindrome](leetcode/125_Valid_Palindrome.ipynb)
+
+- 문자열
+- ASCII
+
 [139. Word Break](leetcode/139.ipynb)
 
 - 문자열
