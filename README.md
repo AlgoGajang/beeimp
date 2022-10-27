@@ -44,6 +44,11 @@
 - 수학
 - 문자열
 
+[20. Valid Parentheses](leetcode/20_Valid_Parentheses.ipynb)
+
+- 배열
+- 스택
+
 [21. Merge Two Sorted Lists](leetcode/21.ipynb)
 
 - 연결 리스트
