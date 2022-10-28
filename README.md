@@ -145,6 +145,11 @@
 - 해시 테이블
 - Sliding Window
 
+[33. Search in Rotated Sorted Array](leetcode/33_Search_in_Rotated_Sorted_Array.ipynb)
+
+- 배열
+- 이진 탐색
+
 [48. Rotate Image](leetcode/48.ipynb)
 
 - 배열
