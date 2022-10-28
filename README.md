@@ -335,6 +335,12 @@
 - 해시 테이블
 - 슬라이딩 윈도우
 
+[239. Sliding Window Maximum](leetcode/239_Sliding_Window_Maximum.ipynb)
+
+- 배열
+- 데크(Dequeue)
+- 인덱싱
+
 [295. Find Median from Data Stream](leetcode/295_Find%20Median_from_Data_Stream.ipynb)
 
 - 정렬
