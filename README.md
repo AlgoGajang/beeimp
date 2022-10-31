@@ -135,6 +135,13 @@
 - DP(동적 계획법)
 - 비트 연산
 
+[2423. Remove Letter To Equalize Frequency](leetcode/2423_Remove_Letter_To_Equalize_Frequency.ipynb)
+
+- 문자열
+- 해시 테이블
+- Set
+- Counting
+
 <hr/>
 
 ### Medium
@@ -387,7 +394,7 @@
 
 - 완전탐색
 - BFS(너비 우선 탐색)
-- SET
+- Set
 
 [모음 사전](programmers/모음_사전.ipynb)
 
