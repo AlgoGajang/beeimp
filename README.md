@@ -185,6 +185,11 @@
 - 행렬
 - 시뮬레이션
 
+[55. Jump Game](leetcode/55_Jump_Game.ipynb)
+
+- 배열
+- 그리디
+
 [56. Merge Intervals](leetcode/56.ipynb)
 
 - 배열
