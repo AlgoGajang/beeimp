@@ -162,6 +162,11 @@
 - 배열
 - 이진 탐색
 
+[45. Jump Game II](leetcode/45_Jump_Game_II.ipynb)
+
+- 배열
+- 그리디
+
 [48. Rotate Image](leetcode/48.ipynb)
 
 - 배열
