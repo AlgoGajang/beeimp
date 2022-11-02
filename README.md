@@ -157,6 +157,12 @@
 - 문자열
 - DP(동적 계획법)
 
+[22. Generate Parentheses](leetcode/22_Generate_Parentheses.ipynb)
+
+- 문자열
+- 백트래킹
+- DP(동적 계획법)
+
 [33. Search in Rotated Sorted Array](leetcode/33_Search_in_Rotated_Sorted_Array.ipynb)
 
 - 배열
