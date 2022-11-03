@@ -210,6 +210,11 @@
 
 - 배열
 
+[62. Unique Paths](leetcode/62_Unique_Paths.ipynb)
+
+- BFS(너비 우선 탐색)
+- DP(동적 계획법)
+
 [73. Set Matrix Zeroes](leetcode/73.ipynb)
 
 - 행렬
