@@ -220,6 +220,12 @@
 - 배열
 - DP(동적 계획법)
 
+[64. Minimum Path Sum](leetcode/64_Minimum_Path_Sum.ipynb)
+
+- 배열
+- 행렬
+- DP(동적 계획법)
+
 [73. Set Matrix Zeroes](leetcode/73.ipynb)
 
 - 행렬
