@@ -355,6 +355,11 @@
 - 디자인
 - 구현
 
+[718. Maximum Length of Repeated Subarray](leetcode/718_Maximum_Length_of_Repeated_Subarray.ipynb)
+
+- 배열
+- DP
+
 [823. Binary Trees With Factors](leetcode/823.ipynb)
 
 - DP(동적 계획법)
