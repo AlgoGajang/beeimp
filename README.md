@@ -365,6 +365,12 @@
 - DP(동적 계획법)
 - 해시 테이블
 
+[1027. Longest Arithmetic Subsequence](leetcode/1027_Longest_Arithmetic_Subsequence.ipynb)
+
+- 배열
+- 해시 테이블
+- DP(동적 계획법)
+
 [1996. The Number of Weak Characters in the Game](leetcode/1996.ipynb)
 
 - 배열
