@@ -71,6 +71,11 @@
 - 이진 트리
 - DFS(깊이 우선 탐색)
 
+[118. Pascal's Triangle](leetcode/119_Pascal's_Triangle_II.ipynb)
+
+- 배열
+- DP(동적 계획법)
+
 [121. Best Time to Buy and Sell Stock](leetcode/121.ipynb)
 
 - 배열
