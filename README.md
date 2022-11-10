@@ -71,7 +71,12 @@
 - 이진 트리
 - DFS(깊이 우선 탐색)
 
-[118. Pascal's Triangle](leetcode/119_Pascal's_Triangle_II.ipynb)
+[118. Pascal's Triangle](leetcode/118_Pascal's_Triangle.ipynb)
+
+- 배열
+- DP(동적 계획법)
+
+[119. Pascal's Triangle II](leetcode/119_Pascal's_Triangle_II.ipynb)
 
 - 배열
 - DP(동적 계획법)
