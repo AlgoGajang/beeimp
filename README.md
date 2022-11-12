@@ -592,3 +592,4 @@
 - 2022 Winter Coding
 - KB국민은행
 - 베이글코드 채용연계형 인턴십 3기 1차 코딩테스트
+- 2022 LG CNS Code Monster 예선
